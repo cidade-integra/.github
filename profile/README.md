@@ -6,20 +6,64 @@ Bem-vindo à **Cidade Unida**, uma plataforma colaborativa voltada para a melhor
 
 O **Cidade Unida** é uma plataforma online que permite aos cidadãos registrarem denúncias urbanas, facilitando a comunicação entre a população e as autoridades responsáveis. O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU**, que visa tornar as cidades mais **inclusivas, seguras, resilientes e sustentáveis**.
 
-### 🎯 Objetivo
+### 🚩 Objetivo
 
 Nosso objetivo é desenvolver um site funcional que aplique os conhecimentos adquiridos ao longo do curso, promovendo boas práticas de desenvolvimento web, design e colaboração em equipe.
 
-<!-- SEÇÃO EM DESENVOLVIMENTO
+### 🎯 Qual o Problema a ser Resolvido?
 
-## 🚀 Tecnologias Utilizadas
+Atualmente, a comunicação entre os cidadãos e os serviços públicos muitas vezes é ineficiente, descentralizada ou inacessível, dificultando a resolução de problemas urbanos cotidianos. Isso gera frustração na população, acúmulo de demandas não atendidas e degradação do espaço público.
 
-- **Frontend:** HTML5, CSS3, TailwindCSS, Javascript, Node.Js, React.JS
-- **Backend:** [Tecnologias utilizadas]
-- **Banco de Dados:** [Banco de dados utilizado]
-- **Outras Ferramentas:** [Ferramentas adicionais]
+### ✅ Solução Proposta
 
- -->
+O **Cidade Unida** propõe uma **plataforma web responsiva** e de fácil uso, onde os cidadãos possam:
+
+-   Registrar e acompanhar denúncias urbanas;
+    
+-   Interagir com atualizações das autoridades ou administradores do sistema.
+
+### 🧑‍🤝‍🧑 Público-Alvo
+
+A plataforma é voltada principalmente para:
+
+-   **Cidadãos** que desejam reportar problemas urbanos de forma prática e transparente;
+    
+-   **Órgãos públicos municipais** interessados em aprimorar a gestão de demandas urbanas;
+
+## ⚙️ Funcionalidades
+
+-   📌 **Cadastro de denúncias:** com campos para descrição, localização via mapa e upload de imagens;
+    
+-   🔍 **Consulta pública:** listagem das denúncias por região, status ou categoria;
+    
+-   👤 **Sistema de autenticação:** para usuários e administradores;
+    
+-   🧭 **Painel administrativo:** para acompanhamento, priorização e resposta das denúncias;
+    
+-   📝 **Histórico de atualizações** das denúncias (timeline);
+    
+
+Esse modelo visa **centralizar a comunicação**, **organizar dados úteis para as prefeituras** e **fortalecer a cultura da cidadania ativa**.
+
+## 🧑‍💻 Boas Práticas Adotadas
+
+O desenvolvimento do projeto é guiado por boas práticas que garantem a qualidade, organização e sustentabilidade do código:
+
+-   ✅ **Versionamento com Git** e organização por branches (`main`, `develop`, `feature/*`)
+    
+-   ✅ **Commits semânticos** utilizando [Conventional Commits](https://www.conventionalcommits.org/)
+    
+-   ✅ **Código limpo** com padronização e uso de linters
+    
+-   ✅ **Documentação clara** em arquivos README, Wiki e comentários no código
+    
+-   ✅ **Componentização** no frontend (React)
+    
+-   ✅ **Separação de responsabilidades** entre frontend, backend e banco de dados
+    
+-   ✅ **Testes unitários e de integração** (a ser implementado)
+    
+-   ✅ **Adoção de princípios SOLID e DRY** quando aplicável
 
 ## 📜 Contribuição
 
@@ -62,15 +106,6 @@ feat: adicionar formulário de denúncia
    git push origin feature/nome-da-feature
    ```
 5. **Abra um Pull Request** no repositório principal e descreva suas alterações.
-   
-<!-- SEÇÃO EM DESENVOLVIMENTO
-
-## 📞 Contato
-
-Se tiver dúvidas ou sugestões, entre em contato conosco por meio das [issues](https://github.com/cidade-unida/repo/issues).
-
- -->
 ---
 
 Agradecemos sua colaboração para tornar as cidades mais sustentáveis! 🌱🏙️
-
