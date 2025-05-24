@@ -1,10 +1,10 @@
-# Cidade Unida ♻ – Plataforma de Denúncias Urbanas
+# Cidade Integra ♻ – Plataforma de Denúncias Urbanas
 
-Bem-vindo à **Cidade Unida**, uma plataforma colaborativa voltada para a melhoria das cidades por meio da participação ativa da comunidade. Esta organização é responsável pelo desenvolvimento do projeto, que faz parte do Projeto Interdisciplinar do curso de **Desenvolvimento de Software Multiplataforma** da **Fatec Matão "Luiz Marchesan"**.
+Bem-vindo à **Cidade Integra**, uma plataforma colaborativa voltada para a melhoria das cidades por meio da participação ativa da comunidade. Esta organização é responsável pelo desenvolvimento do projeto, que faz parte do Projeto Interdisciplinar do curso de **Desenvolvimento de Software Multiplataforma** da **Fatec Matão "Luiz Marchesan"**.
 
 ## 🌍 Sobre o Projeto
 
-O **Cidade Unida** é uma plataforma online que permite aos cidadãos registrarem denúncias urbanas, facilitando a comunicação entre a população e as autoridades responsáveis. O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU**, que visa tornar as cidades mais **inclusivas, seguras, resilientes e sustentáveis**.
+O **Cidade Integra** é uma plataforma online que permite aos cidadãos registrarem denúncias urbanas, facilitando a comunicação entre a população e as autoridades responsáveis. O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU**, que visa tornar as cidades mais **inclusivas, seguras, resilientes e sustentáveis**.
 
 ### 🚩 Objetivo
 
@@ -16,7 +16,7 @@ Atualmente, a comunicação entre os cidadãos e os serviços públicos muitas v
 
 ### ✅ Solução Proposta
 
-O **Cidade Unida** propõe uma **plataforma web responsiva** e de fácil uso, onde os cidadãos possam:
+O **Cidade Integra** propõe uma **plataforma web responsiva** e de fácil uso, onde os cidadãos possam:
 
 -   Registrar e acompanhar denúncias urbanas;
     
